@@ -1,7 +1,8 @@
 body {
   background-color: silver;
   border: dotted black 2pt;
-  padding: 20pt;
+  padding: 50pt;
+  margin: 25pt;
 }
 h1 {
   text-align: center;
@@ -15,6 +16,7 @@ h1 {
 }
 h2 {
   font-style: italic;
+  text-align: center;
 }
 h3 {
   font-style: italic;
@@ -30,4 +32,11 @@ p {
 .project {
   border: double black 2pt;
   border-color: darkred;
+}
+.intro {
+  font-style: italic;
+  color: darkgreen;
+}
+.fin {
+  font-style: italic;
 }
