@@ -24,3 +24,10 @@ p {
   color: maroon;
   font-family: fantasy;
 }
+.field {
+  text-align: center;
+}
+.project {
+  border: double black 2pt;
+  border-color: darkred;
+}
