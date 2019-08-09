@@ -1,5 +1,7 @@
 body {
   background-color: gray;
+  border: dotted black 2pt;
+  padding: 20pt;
 }
 h1 {
   text-align: center;
