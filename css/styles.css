@@ -28,7 +28,7 @@ h3 {
   color: maroon;
 }
 p {
-  color: navy;
+  color: darkred;
 
 }
 .field {
@@ -41,6 +41,7 @@ p {
 .column {
   width: auto;
   float: left;
+  font-weight: 400;
 }
 
 .middle {
@@ -48,4 +49,7 @@ p {
 }
 ul {
   color: darkgreen;
+}
+ol {
+  color: purple;
 }
