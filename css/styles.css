@@ -10,6 +10,7 @@ body {
 h1 {
   text-align: center;
   font-style: italic;
+  color: maroon;
 }
 .center {
   display: block;
@@ -19,10 +20,12 @@ h1 {
 h2 {
   font-style: italic;
   text-align: center;
+  color: maroon;
 }
 h3 {
   font-style: italic;
   text-align: center;
+  color: maroon;
 }
 p {
   color: navy;
