@@ -25,7 +25,7 @@ h3 {
   text-align: center;
 }
 p {
-  color: maroon;
+  color: darkorange;
 
 }
 .field {
@@ -44,4 +44,7 @@ p {
 }
 .middle {
   font-weight: 500;
+}
+ul {
+  color: darkgreen;
 }
