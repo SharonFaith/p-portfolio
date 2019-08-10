@@ -25,7 +25,7 @@ h3 {
   text-align: center;
 }
 p {
-  color: darkorange;
+  color: darkred;
 
 }
 .field {
@@ -35,15 +35,13 @@ p {
   border: dotted 2pt;
   border-color: darkred;
 }
-.intro {
-  font-style: italic;
-  color: darkgreen;
+.column {
+  width: auto;
+  float: left;
 }
-.fin {
-  font-style: italic;
-}
+
 .middle {
-  font-weight: 500;
+  font-weight: 600;
 }
 ul {
   color: darkgreen;
