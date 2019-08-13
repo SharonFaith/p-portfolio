@@ -1,8 +1,9 @@
 body {
-  background-color: silver;
+  background-color: yellow;
   padding: 50pt;
   margin: 50pt;
   font-family: sans-serif;
+  border: dashed black 2pt;
 }
 
 
