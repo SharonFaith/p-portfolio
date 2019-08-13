@@ -35,15 +35,6 @@ p {
 }
 
 
-.column {
-  width: auto;
-  float: left;
-  font-weight: 400;
-}
-
-.middle {
-  font-weight: 600;
-}
 ul {
   color: darkgreen;
 }
