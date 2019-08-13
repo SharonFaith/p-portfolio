@@ -11,3 +11,7 @@ Markup language HTML and style sheet language CSS used.
 ### License
 *GNU General Public License v3.0*
 Copyright (c) 2019
+<<<<<<< HEAD
+=======
+
+>>>>>>> gh-pages
