@@ -5,7 +5,9 @@ body {
   font-family: sans-serif;
   border: dashed black 2pt;
 }
-
+html {
+  background-color: darkred;
+}
 
 html {
   background-color: darkred;
